@@ -1,4 +1,7 @@
-## Presentación personal 
-<p align="center">
-Mi nombre es <b>Derlys Xiomara Leal Castillo</b>, soy estudiante de la Unillanos y estoy cursando quinto semestre en la carrera de Ingeniería de Sistemas. Tengo 21 años y actualmente vivo en Cumaral-Meta.
-</p>
+### 👩‍💻 Presentación Personal
+
+* **Nombre:** Derlys Xiomara Leal Castillo
+* **Carrera:** Ingeniería de Sistemas *(5.º semestre)*
+* **Universidad:** Unillanos
+* **Edad:** 21 años
+* **Ubicación:** Cumaral, Meta
