@@ -5,3 +5,13 @@
 * **Universidad:** Unillanos
 * **Edad:** 21 años
 * **Ubicación:** Cumaral, Meta
+
+### Pasatiempos
+
+* Escuchar música
+* Bailar
+* Ciclismo
+
+## Lenguajes que estoy aprendiendo
+* Java
+* C++
