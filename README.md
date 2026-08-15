@@ -16,3 +16,10 @@
 
 * Java
 * C++
+##  Objetivos del Semestre
+* **Aprender:** Dominar la gestión de proyectos con Git y GitHub.
+* **Proyectos:** Desarrollar aplicaciones sólidas en Java y C++.
+
+###  Mi playlist
+* **Música favorita:** Escucho pop, rock e instrumental.
+* **Canción del momento:** *"Inolvidable" - Ovy On the Drums, Beéle*
