@@ -1,4 +1,4 @@
-### 👩‍💻 Presentación Personal
+### Presentación Personal
 
 * **Nombre:** Derlys Xiomara Leal Castillo
 * **Carrera:** Ingeniería de Sistemas *(5.º semestre)*
