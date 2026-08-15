@@ -1,22 +1,18 @@
-<h1>Presentación Personal</h1>
+### 𝒫𝓇ℯ𝓈ℯ𝓃𝓉𝒶𝒸𝒾ℴ́𝓃 𝒫ℯ𝓇𝓈ℴ𝓃𝒶𝓁
 
-<p>
-  <b>Nombre:</b> Derlys Xiomara Leal Castillo<br>
-  <b>Carrera:</b> <i>Ingeniería de Sistemas (5.º semestre)</i><br>
-  <b>Universidad:</b> Unillanos<br>
-  <b>Edad:</b> 21 años<br>
-  <b>Ubicación:</b> Cumaral, Meta
-</p>
+* **𝒩ℴ𝓂𝒷𝓇ℯ:** 𝒟ℯ𝓇𝓁𝓎𝓈 𝒳𝒾ℴ𝓂𝒶𝓇𝒶 ℒℯ𝒶𝓁 𝒞𝒶𝓈𝓉𝒾𝓁𝓁ℴ
+* **𝒞𝒶𝓇𝓇ℯ𝓇𝒶:** ℐ𝓃❳ℯ𝓃𝒾ℯ𝓇𝒾́𝒶 𝒹ℯ 𝒮𝒾𝓈𝓉ℯ𝓂𝒶𝓈 *(5.º 𝓈ℯ𝓂ℯ𝓈𝓉𝓇ℯ)*
+* **𝒰𝓃𝒾𝓋ℯ𝓇𝓈𝒾𝒹𝒶𝒹:** 𝒰𝓃𝒾𝓁𝓁𝒶𝓃ℴ𝓈
+* **ℰ𝒹𝒶𝒹:** 21 𝒶𝓃̃ℴ𝓈
+* **𝒰𝒷𝒾𝒸𝒶𝒸𝒾ℴ́𝓃:** 𝒞𝓊𝓂𝒶𝓇𝒶𝓁, ℳℯ𝓉𝒶
 
-<h2>Pasatiempos</h2>
-<ul>
-  <li>Escuchar música</li>
-  <li>Bailar</li>
-  <li>Ciclismo</li>
-</ul>
+### 𝒫𝒶𝓈𝒶𝓉𝒾ℯ𝓂𝓅ℴ𝓈
 
-<h2>Lenguajes que estoy aprendiendo</h2>
-<ul>
-  <li><code>Java</code></li>
-  <li><code>C++</code></li>
-</ul>
+* ℰ𝓈𝒸𝓊𝒸𝒽𝒶𝓇 𝓂𝓊́𝓈𝒾𝒸𝒶
+* ℬ𝒶𝒾𝓁𝒶𝓇
+* 𝒞𝒾𝒸𝓁𝒾𝓈𝓂ℴ
+
+### ℒℯ𝓃❳𝓊𝒶𝒿ℯ𝓈 𝓆𝓊ℯ ℯ𝓈𝓉ℴ𝓎 𝒶𝓅𝓇ℯ𝓃𝒹𝒾ℯ𝓃𝒹ℴ
+
+* Java
+* C++
